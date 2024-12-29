@@ -1,0 +1,82 @@
+#icon{
+    border-radius:10%;
+    margin: 7px 24px 0px 0px;
+    width:10%;
+    }
+
+body{
+    background-color: #14101c;
+}
+header{
+    font-size: 20px;
+    color: rgb(34, 36, 100);
+    background-color: #170c2b;
+    border-radius: 5px;
+    padding: 10px;
+}
+nav{
+    background: #17141d;
+}
+
+footer{
+    background-color: #17141d;
+    border-top: 2px solid wheat;
+    border-bottom: 2px solid wheat;
+}
+
+
+.fth{ 
+    font-size: 30px;
+    padding: 50px;
+    color: rgb(5, 83, 79);
+    text-align: center;
+    margin: 40px;
+}
+
+.ftd{
+    color: #066e4f;
+    font-size: 25px;
+    padding: 2px 90px 20px 90px ;
+    margin: 40px 50px 30px ;
+    text-align: center;
+}
+
+.ftd1{
+    text-align: center;
+    padding: 1px 1px 1px 1px;
+    }
+.fth:hover{
+            color: #362dbd;
+            text-decoration: underline;
+			}
+
+.fa-facebook{
+    font-size: 30px;	
+    color:blue;
+    padding: 5px;
+    }
+.fa-instagram{
+    font-size: 30px;
+    color: #ff0069;
+    padding: 5px;
+        }
+.fa-twitter{
+    font-size: 30px;
+    color: blue;
+    padding: 5px;
+    }
+
+.fa-facebook:hover{
+    color: #06196e;
+    padding: 5px;
+}    
+.fa-instagram:hover{
+    color: #fc76a2;
+    padding: 5px;
+}
+.fa-twitter:hover{
+    color: #535bc7;
+    padding: 5px;
+}
+
+
